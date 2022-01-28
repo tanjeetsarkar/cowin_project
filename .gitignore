@@ -1,3 +1,4 @@
 # Default ignored files
 /auth_secret.py
 /Pincodes.py
+.idea/workspace.xml
